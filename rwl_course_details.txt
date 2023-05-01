@@ -1,0 +1,25 @@
+
+ Java
+ JavaScript
+ Typescript
+ SQL
+ Html
+
+ Angular/react
+ bootstrap
+ hibernate
+ Spring with boot
+
+ junit
+ jasmin & karma
+ postman
+ maven
+ npm
+ ecllipse
+ vscode
+
+ design pattern
+ basic algo & ds
+
+ css
+ 
